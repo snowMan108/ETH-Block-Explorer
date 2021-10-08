@@ -52,4 +52,3 @@ Then visit http://localhost:8000 in your browser of choice after you npm start t
 - Realtime latest blocks and recent transactions
 - Other random blockchain info stats were added
 
-_If you want to disable auto refresh/auto new block show, just comment line no 13-22 at: [app/scripts/controllers/mainController.js](https://github.com/sthnaqvi/explorer/blob/3a08032fc8550a863ae49acf0bdd45bfe2d961d1/app/scripts/controllers/mainController.js#L13-L22)_
